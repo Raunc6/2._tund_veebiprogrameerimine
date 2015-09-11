@@ -40,3 +40,15 @@
 	
 	echo "õnne";
 ?>
+
+<br>
+
+<?php
+	//kuupäev kujul: friday, 11.09.2015
+	echo( date ("l, j.m.Y h:i:s") )
+
+
+
+
+
+?>
