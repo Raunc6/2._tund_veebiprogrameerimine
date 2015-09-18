@@ -42,7 +42,9 @@
 		
 	</form>
 	
-	<h2>Create user</h2>
+	<h2>Loo endale kasutaja</h2>
+
+	
 	
 	
 
